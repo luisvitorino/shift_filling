@@ -1,0 +1,181 @@
+C:\Users\vitorino-1\source\repos\GR\GR\obj\Debug\netcoreapp2.1\GR.csprojAssemblyReference.cache
+C:\Users\vitorino-1\source\repos\GR\GR\obj\Debug\netcoreapp2.1\GR.csproj.CoreCompileInputs.cache
+C:\Users\vitorino-1\source\repos\GR\GR\obj\Debug\netcoreapp2.1\GR.RazorAssemblyInfo.cache
+C:\Users\vitorino-1\source\repos\GR\GR\obj\Debug\netcoreapp2.1\GR.RazorAssemblyInfo.cs
+C:\Users\vitorino-1\source\repos\GR\GR\obj\Debug\netcoreapp2.1\GR.AssemblyInfoInputs.cache
+C:\Users\vitorino-1\source\repos\GR\GR\obj\Debug\netcoreapp2.1\GR.AssemblyInfo.cs
+C:\Users\vitorino-1\source\repos\GR\GR\bin\Debug\netcoreapp2.1\GR.deps.json
+C:\Users\vitorino-1\source\repos\GR\GR\bin\Debug\netcoreapp2.1\GR.runtimeconfig.json
+C:\Users\vitorino-1\source\repos\GR\GR\bin\Debug\netcoreapp2.1\GR.runtimeconfig.dev.json
+C:\Users\vitorino-1\source\repos\GR\GR\bin\Debug\netcoreapp2.1\GR.dll
+C:\Users\vitorino-1\source\repos\GR\GR\bin\Debug\netcoreapp2.1\GR.pdb
+C:\Users\vitorino-1\source\repos\GR\GR\bin\Debug\netcoreapp2.1\GR.Views.dll
+C:\Users\vitorino-1\source\repos\GR\GR\bin\Debug\netcoreapp2.1\GR.Views.pdb
+C:\Users\vitorino-1\source\repos\GR\GR\obj\Debug\netcoreapp2.1\GR.TagHelpers.input.cache
+C:\Users\vitorino-1\source\repos\GR\GR\obj\Debug\netcoreapp2.1\GR.TagHelpers.output.cache
+C:\Users\vitorino-1\source\repos\GR\GR\obj\Debug\netcoreapp2.1\GR.RazorCoreGenerate.cache
+C:\Users\vitorino-1\source\repos\GR\GR\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR\GR\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR\GR\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR\GR\obj\Debug\netcoreapp2.1\GR.RazorTargetAssemblyInfo.cache
+C:\Users\vitorino-1\source\repos\GR\GR\obj\Debug\netcoreapp2.1\GR.RazorTargetAssemblyInfo.cs
+C:\Users\vitorino-1\source\repos\GR\GR\obj\Debug\netcoreapp2.1\GR.Views.pdb
+C:\Users\vitorino-1\source\repos\GR\GR\obj\Debug\netcoreapp2.1\GR.dll
+C:\Users\vitorino-1\source\repos\GR\GR\obj\Debug\netcoreapp2.1\GR.pdb
+C:\Users\vitorino-1\source\repos\GR\GR\obj\Debug\netcoreapp2.1\GR.csproj.CopyComplete
+C:\Users\vitorino-1\source\repos\GR\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Schedule.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\bin\Debug\netcoreapp2.1\GR.deps.json
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\bin\Debug\netcoreapp2.1\GR.runtimeconfig.json
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\bin\Debug\netcoreapp2.1\GR.runtimeconfig.dev.json
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\bin\Debug\netcoreapp2.1\GR.dll
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\bin\Debug\netcoreapp2.1\GR.pdb
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\bin\Debug\netcoreapp2.1\GR.Views.dll
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\bin\Debug\netcoreapp2.1\GR.Views.pdb
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\obj\Debug\netcoreapp2.1\GR.csprojAssemblyReference.cache
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\obj\Debug\netcoreapp2.1\GR.csproj.CoreCompileInputs.cache
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\obj\Debug\netcoreapp2.1\GR.RazorAssemblyInfo.cache
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\obj\Debug\netcoreapp2.1\GR.RazorAssemblyInfo.cs
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\obj\Debug\netcoreapp2.1\GR.AssemblyInfoInputs.cache
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\obj\Debug\netcoreapp2.1\GR.AssemblyInfo.cs
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\obj\Debug\netcoreapp2.1\GR.TagHelpers.input.cache
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\obj\Debug\netcoreapp2.1\GR.TagHelpers.output.cache
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\obj\Debug\netcoreapp2.1\GR.RazorCoreGenerate.cache
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Schedule.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\obj\Debug\netcoreapp2.1\GR.RazorTargetAssemblyInfo.cache
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\obj\Debug\netcoreapp2.1\GR.RazorTargetAssemblyInfo.cs
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\obj\Debug\netcoreapp2.1\GR.Views.pdb
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\obj\Debug\netcoreapp2.1\GR.dll
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\obj\Debug\netcoreapp2.1\GR.pdb
+C:\Users\vitorino-1\source\repos\GR - Backup\GR\obj\Debug\netcoreapp2.1\GR.csproj.CopyComplete
+C:\Users\vitorino-1\source\repos\GR - static\GR\bin\Debug\netcoreapp2.1\GR.deps.json
+C:\Users\vitorino-1\source\repos\GR - static\GR\bin\Debug\netcoreapp2.1\GR.runtimeconfig.json
+C:\Users\vitorino-1\source\repos\GR - static\GR\bin\Debug\netcoreapp2.1\GR.runtimeconfig.dev.json
+C:\Users\vitorino-1\source\repos\GR - static\GR\bin\Debug\netcoreapp2.1\GR.dll
+C:\Users\vitorino-1\source\repos\GR - static\GR\bin\Debug\netcoreapp2.1\GR.pdb
+C:\Users\vitorino-1\source\repos\GR - static\GR\bin\Debug\netcoreapp2.1\GR.Views.dll
+C:\Users\vitorino-1\source\repos\GR - static\GR\bin\Debug\netcoreapp2.1\GR.Views.pdb
+C:\Users\vitorino-1\source\repos\GR - static\GR\obj\Debug\netcoreapp2.1\GR.csprojAssemblyReference.cache
+C:\Users\vitorino-1\source\repos\GR - static\GR\obj\Debug\netcoreapp2.1\GR.csproj.CoreCompileInputs.cache
+C:\Users\vitorino-1\source\repos\GR - static\GR\obj\Debug\netcoreapp2.1\GR.RazorAssemblyInfo.cache
+C:\Users\vitorino-1\source\repos\GR - static\GR\obj\Debug\netcoreapp2.1\GR.RazorAssemblyInfo.cs
+C:\Users\vitorino-1\source\repos\GR - static\GR\obj\Debug\netcoreapp2.1\GR.AssemblyInfoInputs.cache
+C:\Users\vitorino-1\source\repos\GR - static\GR\obj\Debug\netcoreapp2.1\GR.AssemblyInfo.cs
+C:\Users\vitorino-1\source\repos\GR - static\GR\obj\Debug\netcoreapp2.1\GR.TagHelpers.input.cache
+C:\Users\vitorino-1\source\repos\GR - static\GR\obj\Debug\netcoreapp2.1\GR.TagHelpers.output.cache
+C:\Users\vitorino-1\source\repos\GR - static\GR\obj\Debug\netcoreapp2.1\GR.RazorCoreGenerate.cache
+C:\Users\vitorino-1\source\repos\GR - static\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR - static\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR - static\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR - static\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR - static\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR - static\GR\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR - static\GR\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR - static\GR\obj\Debug\netcoreapp2.1\GR.RazorTargetAssemblyInfo.cache
+C:\Users\vitorino-1\source\repos\GR - static\GR\obj\Debug\netcoreapp2.1\GR.RazorTargetAssemblyInfo.cs
+C:\Users\vitorino-1\source\repos\GR - static\GR\obj\Debug\netcoreapp2.1\GR.Views.pdb
+C:\Users\vitorino-1\source\repos\GR - static\GR\obj\Debug\netcoreapp2.1\GR.dll
+C:\Users\vitorino-1\source\repos\GR - static\GR\obj\Debug\netcoreapp2.1\GR.pdb
+C:\Users\vitorino-1\source\repos\GR - static\GR\obj\Debug\netcoreapp2.1\GR.csproj.CopyComplete
+C:\Users\vitorino-1\source\repos\GR - Backup15\GR\bin\Debug\netcoreapp2.1\GR.deps.json
+C:\Users\vitorino-1\source\repos\GR - Backup15\GR\bin\Debug\netcoreapp2.1\GR.runtimeconfig.json
+C:\Users\vitorino-1\source\repos\GR - Backup15\GR\bin\Debug\netcoreapp2.1\GR.runtimeconfig.dev.json
+C:\Users\vitorino-1\source\repos\GR - Backup15\GR\bin\Debug\netcoreapp2.1\GR.dll
+C:\Users\vitorino-1\source\repos\GR - Backup15\GR\bin\Debug\netcoreapp2.1\GR.pdb
+C:\Users\vitorino-1\source\repos\GR - Backup15\GR\bin\Debug\netcoreapp2.1\GR.Views.dll
+C:\Users\vitorino-1\source\repos\GR - Backup15\GR\bin\Debug\netcoreapp2.1\GR.Views.pdb
+C:\Users\vitorino-1\source\repos\GR - Backup15\GR\obj\Debug\netcoreapp2.1\GR.csprojAssemblyReference.cache
+C:\Users\vitorino-1\source\repos\GR - Backup15\GR\obj\Debug\netcoreapp2.1\GR.csproj.CoreCompileInputs.cache
+C:\Users\vitorino-1\source\repos\GR - Backup15\GR\obj\Debug\netcoreapp2.1\GR.RazorAssemblyInfo.cache
+C:\Users\vitorino-1\source\repos\GR - Backup15\GR\obj\Debug\netcoreapp2.1\GR.RazorAssemblyInfo.cs
+C:\Users\vitorino-1\source\repos\GR - Backup15\GR\obj\Debug\netcoreapp2.1\GR.AssemblyInfoInputs.cache
+C:\Users\vitorino-1\source\repos\GR - Backup15\GR\obj\Debug\netcoreapp2.1\GR.AssemblyInfo.cs
+C:\Users\vitorino-1\source\repos\GR - Backup15\GR\obj\Debug\netcoreapp2.1\GR.TagHelpers.input.cache
+C:\Users\vitorino-1\source\repos\GR - Backup15\GR\obj\Debug\netcoreapp2.1\GR.TagHelpers.output.cache
+C:\Users\vitorino-1\source\repos\GR - Backup15\GR\obj\Debug\netcoreapp2.1\GR.RazorCoreGenerate.cache
+C:\Users\vitorino-1\source\repos\GR - Backup15\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR - Backup15\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR - Backup15\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR - Backup15\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR - Backup15\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR - Backup15\GR\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR - Backup15\GR\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\vitorino-1\source\repos\GR - Backup15\GR\obj\Debug\netcoreapp2.1\GR.RazorTargetAssemblyInfo.cache
+C:\Users\vitorino-1\source\repos\GR - Backup15\GR\obj\Debug\netcoreapp2.1\GR.RazorTargetAssemblyInfo.cs
+C:\Users\vitorino-1\source\repos\GR - Backup15\GR\obj\Debug\netcoreapp2.1\GR.Views.pdb
+C:\Users\vitorino-1\source\repos\GR - Backup15\GR\obj\Debug\netcoreapp2.1\GR.dll
+C:\Users\vitorino-1\source\repos\GR - Backup15\GR\obj\Debug\netcoreapp2.1\GR.pdb
+C:\Users\vitorino-1\source\repos\GR - Backup15\GR\obj\Debug\netcoreapp2.1\GR.csproj.CopyComplete
+\\cn11smfg\mfg\POLC\001 CI\053 Oversea Intern\Gagin Room project\GR - static\GR\bin\Debug\netcoreapp2.1\GR.deps.json
+\\cn11smfg\mfg\POLC\001 CI\053 Oversea Intern\Gagin Room project\GR - static\GR\bin\Debug\netcoreapp2.1\GR.runtimeconfig.json
+\\cn11smfg\mfg\POLC\001 CI\053 Oversea Intern\Gagin Room project\GR - static\GR\bin\Debug\netcoreapp2.1\GR.runtimeconfig.dev.json
+\\cn11smfg\mfg\POLC\001 CI\053 Oversea Intern\Gagin Room project\GR - static\GR\bin\Debug\netcoreapp2.1\GR.dll
+\\cn11smfg\mfg\POLC\001 CI\053 Oversea Intern\Gagin Room project\GR - static\GR\bin\Debug\netcoreapp2.1\GR.pdb
+\\cn11smfg\mfg\POLC\001 CI\053 Oversea Intern\Gagin Room project\GR - static\GR\bin\Debug\netcoreapp2.1\GR.Views.dll
+\\cn11smfg\mfg\POLC\001 CI\053 Oversea Intern\Gagin Room project\GR - static\GR\bin\Debug\netcoreapp2.1\GR.Views.pdb
+\\cn11smfg\mfg\POLC\001 CI\053 Oversea Intern\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\GR.csprojAssemblyReference.cache
+\\cn11smfg\mfg\POLC\001 CI\053 Oversea Intern\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\GR.csproj.CoreCompileInputs.cache
+\\cn11smfg\mfg\POLC\001 CI\053 Oversea Intern\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\GR.RazorAssemblyInfo.cache
+\\cn11smfg\mfg\POLC\001 CI\053 Oversea Intern\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\GR.RazorAssemblyInfo.cs
+\\cn11smfg\mfg\POLC\001 CI\053 Oversea Intern\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\GR.AssemblyInfoInputs.cache
+\\cn11smfg\mfg\POLC\001 CI\053 Oversea Intern\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\GR.AssemblyInfo.cs
+\\cn11smfg\mfg\POLC\001 CI\053 Oversea Intern\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\GR.TagHelpers.input.cache
+\\cn11smfg\mfg\POLC\001 CI\053 Oversea Intern\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\GR.TagHelpers.output.cache
+\\cn11smfg\mfg\POLC\001 CI\053 Oversea Intern\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\GR.RazorCoreGenerate.cache
+\\cn11smfg\mfg\POLC\001 CI\053 Oversea Intern\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+\\cn11smfg\mfg\POLC\001 CI\053 Oversea Intern\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+\\cn11smfg\mfg\POLC\001 CI\053 Oversea Intern\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+\\cn11smfg\mfg\POLC\001 CI\053 Oversea Intern\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+\\cn11smfg\mfg\POLC\001 CI\053 Oversea Intern\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+\\cn11smfg\mfg\POLC\001 CI\053 Oversea Intern\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+\\cn11smfg\mfg\POLC\001 CI\053 Oversea Intern\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+\\cn11smfg\mfg\POLC\001 CI\053 Oversea Intern\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\GR.RazorTargetAssemblyInfo.cache
+\\cn11smfg\mfg\POLC\001 CI\053 Oversea Intern\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\GR.RazorTargetAssemblyInfo.cs
+\\cn11smfg\mfg\POLC\001 CI\053 Oversea Intern\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\GR.Views.pdb
+\\cn11smfg\mfg\POLC\001 CI\053 Oversea Intern\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\GR.dll
+\\cn11smfg\mfg\POLC\001 CI\053 Oversea Intern\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\GR.pdb
+\\cn11smfg\mfg\POLC\001 CI\053 Oversea Intern\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\GR.csproj.CopyComplete
+D:\Program\Gagin Room project\GR - static\GR\bin\Debug\netcoreapp2.1\GR.deps.json
+D:\Program\Gagin Room project\GR - static\GR\bin\Debug\netcoreapp2.1\GR.runtimeconfig.json
+D:\Program\Gagin Room project\GR - static\GR\bin\Debug\netcoreapp2.1\GR.runtimeconfig.dev.json
+D:\Program\Gagin Room project\GR - static\GR\bin\Debug\netcoreapp2.1\GR.dll
+D:\Program\Gagin Room project\GR - static\GR\bin\Debug\netcoreapp2.1\GR.pdb
+D:\Program\Gagin Room project\GR - static\GR\bin\Debug\netcoreapp2.1\GR.Views.dll
+D:\Program\Gagin Room project\GR - static\GR\bin\Debug\netcoreapp2.1\GR.Views.pdb
+D:\Program\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\GR.csproj.CoreCompileInputs.cache
+D:\Program\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\GR.RazorAssemblyInfo.cache
+D:\Program\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\GR.RazorAssemblyInfo.cs
+D:\Program\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\GR.AssemblyInfoInputs.cache
+D:\Program\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\GR.AssemblyInfo.cs
+D:\Program\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\GR.TagHelpers.input.cache
+D:\Program\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\GR.TagHelpers.output.cache
+D:\Program\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\GR.RazorCoreGenerate.cache
+D:\Program\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+D:\Program\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+D:\Program\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Program\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+D:\Program\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Program\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+D:\Program\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+D:\Program\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\GR.RazorTargetAssemblyInfo.cache
+D:\Program\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\GR.RazorTargetAssemblyInfo.cs
+D:\Program\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\GR.Views.pdb
+D:\Program\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\GR.dll
+D:\Program\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\GR.pdb
+D:\Program\Gagin Room project\GR - static\GR\obj\Debug\netcoreapp2.1\GR.csproj.CopyComplete

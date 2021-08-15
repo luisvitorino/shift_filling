@@ -1,0 +1,467 @@
+﻿@page
+@model GR.Pages.ScheduleModel
+@{
+    ViewData["Title"] = "Schedule";
+}
+
+<h2>钢</h2>
+<form method="post">
+<html>
+
+    <button type="submit" name="schedule" asp-page-handler="OnCalculateSchedule"> 计算 </button>
+    &nbsp
+    &nbsp
+    &nbsp
+    <button type="submit" name="clear" asp-page-handler="OnClearTable"> 清空 </button>
+    &nbsp
+    &nbsp
+    &nbsp
+    <input type="checkbox" name="saturday" id="saturday" @Model.SaturdayChecked>
+    <label for="saturday"> 周六休息</label>
+    &nbsp
+    &nbsp
+    &nbsp
+    <input type="checkbox" name="sunday" id="sunday" @Model.SundayChecked>
+    <label for="sunday"> 周日休息</label>
+
+</html>
+
+
+
+<html>
+<p>
+    <head>
+        <style type="text/css">
+            table.one {
+                border-collapse: collapse;
+                
+            }
+
+            td.b {
+                border-style: solid;
+                border-width: 3px;
+                border-color: #333333;
+                padding: 10px;
+            }
+        </style>
+    </head>
+
+
+    <body>
+        <table class="one">
+
+            <tr>
+                <td class="b">Production Line / Shift</td>
+                <td class="b">连续流组</td>
+                <td class="b">独立组1</td>
+                <td class="b">独立组2</td>
+            </tr>
+            <tr>
+                <td class="b">早</td>
+                <td class="b"><input id="Text1" type="text" name="txtPLC_Fi" value="@Model.LastForm("txtPLC_Fi")" /></td>
+                <td class="b"><input id="Text2" type="text" name="txtPL1_Fi" value="@Model.LastForm("txtPL1_Fi")" /></td>
+                <td class="b"><input id="Text3" type="text" name="txtPL2_Fi" value="@Model.LastForm("txtPL2_Fi")" /></td>
+            </tr>
+            <tr>
+                <td class="b">中</td>
+                <td class="b"><input id="Text11" type="text" name="txtPLC_Se" value="@Model.LastForm("txtPLC_Se")" /></td>
+                <td class="b"><input id="Text12" type="text" name="txtPL1_Se" value="@Model.LastForm("txtPL1_Se")" /></td>
+                <td class="b"><input id="Text13" type="text" name="txtPL2_Se" value="@Model.LastForm("txtPL2_Se")" /></td>
+            </tr>
+            <tr>
+                <td class="b">晚</td>
+                <td class="b"><input id="Text21" type="text" name="txtPLC_Th" value="@Model.LastForm("txtPLC_Th")" /></td>
+                <td class="b"><input id="Text22" type="text" name="txtPL1_Th" value="@Model.LastForm("txtPL1_Th")" /></td>
+                <td class="b"><input id="Text23" type="text" name="txtPL2_Th" value="@Model.LastForm("txtPL2_Th")" /></td>
+            </tr>
+        </table>
+        <table>
+            <tr>
+                &nbsp &nbsp &nbsp &nbsp &nbsp
+                <td><input type="datetime" name="ScheduleDay" value="@Model.TakeDate("ScheduleDay")" /></td>
+            </tr>
+        </table>
+        <br />
+
+    </body>
+</p>
+</html>
+</form>
+
+@if (Model.schedule.Count != 0)
+{
+<div id="centered">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(Modelitens => Modelitens.schedule[0].demand.Priority)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(Modelitens => Modelitens.schedule[0].demand.Model)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(Modelitens => Modelitens.schedule[0].demand.Quantity)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(Modelitens => Modelitens.schedule[0].demand.Initialtime)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(Modelitens => Modelitens.schedule[0].demand.Finaltime)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(Modelitens => Modelitens.schedule[0].capacity.Production_Line)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(Modelitens => Modelitens.schedule[0].capacity.CAPACITY)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(Modelitens => Modelitens.schedule[0].END_Fi)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(Modelitens => Modelitens.schedule[0].END_Se)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(Modelitens => Modelitens.schedule[0].straingage.STRAINGAGE)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(Modelitens => Modelitens.schedule[0].TR_Fi)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(Modelitens => Modelitens.schedule[0].TR_Se)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(Modelitens => Modelitens.schedule[0].早)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(Modelitens => Modelitens.schedule[0].中)
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.schedule.OrderBy(de => de.demand.Priority))
+            {
+                @if (item.capacity.Production_Line == "独立组1")
+                {
+                    <tr style="background-color: darkseagreen;">
+
+                        <td>
+                            @Html.DisplayFor(modelItem => item.demand.Priority)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.demand.Model)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.demand.Quantity)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.demand.Initialtime)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.demand.Finaltime)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.capacity.Production_Line)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.capacity.CAPACITY)
+                        </td>
+                        <td>
+                            @if (item.END_Fi == DateTime.MinValue)
+                            {
+                                @Html.Display("")
+                            }
+                            @if (item.END_Fi != DateTime.MinValue)
+                            {
+                                @Html.DisplayFor(modelItem => item.END_Fi)
+                            }
+                        </td>
+                        <td>
+                            @if (item.END_Se == DateTime.MinValue)
+                            {
+                                @Html.Display("")
+                            }
+                            @if (item.END_Se != DateTime.MinValue)
+                            {
+                                @Html.DisplayFor(modelItem => item.END_Se)
+                            }
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.straingage.STRAINGAGE)
+                        </td>
+                        <td>
+                            @if (item.TR_Fi == 0)
+                            {
+                                @Html.Display("")
+                            }
+                            @if (item.TR_Fi != 0)
+                            {
+                                @Html.DisplayFor(modelItem => item.TR_Fi)
+                            }
+                        </td>
+                        <td >
+                            @if (item.TR_Se == 0)
+                            {
+                                @Html.Display("")
+                            }
+                            @if (item.TR_Se != 0)
+                            {
+                                @Html.DisplayFor(modelItem => item.TR_Se)
+                            }
+                        </td>
+                        @if (item.fixture.Equals(1))
+                         {
+                         <td bgcolor="#FF0000">                        
+                            @if (item.早 == 0)
+                             {
+                                @Html.Display("")
+                             }
+                            @if (item.早 != 0)
+                             {
+                                @Html.DisplayFor(modelItem => item.早)
+                             }
+                         </td>
+                         }
+                        @if (item.fixture.Equals(0))
+                         {
+                         <td>                 
+                            @if (item.早 == 0)
+                             {
+                                @Html.Display("")
+                             }
+                            @if (item.早 != 0)
+                             {
+                                @Html.DisplayFor(modelItem => item.早)
+                             }
+                         </td>
+                         }
+                        <td>
+                            @if (item.中 == 0)
+                            {
+                                @Html.Display("")
+                            }
+                            @if (item.中 != 0)
+                            {
+                                @Html.DisplayFor(modelItem => item.中)
+                            }
+                        </td>
+                    </tr>
+                }
+                @if (item.capacity.Production_Line == "独立组2")
+                {
+                    <tr style="background-color: palegreen;">
+
+                        <td>
+                            @Html.DisplayFor(modelItem => item.demand.Priority)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.demand.Model)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.demand.Quantity)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.demand.Initialtime)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.demand.Finaltime)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.capacity.Production_Line)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.capacity.CAPACITY)
+                        </td>
+                        <td>
+                            @if (item.END_Fi == DateTime.MinValue)
+                            {
+                                @Html.Display("")
+                            }
+                            @if (item.END_Fi != DateTime.MinValue)
+                            {
+                                @Html.DisplayFor(modelItem => item.END_Fi)
+                            }
+                        </td>
+                        <td>
+                            @if (item.END_Se == DateTime.MinValue)
+                            {
+                                @Html.Display("")
+                            }
+                            @if (item.END_Se != DateTime.MinValue)
+                            {
+                                @Html.DisplayFor(modelItem => item.END_Se)
+                            }
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.straingage.STRAINGAGE)
+                        </td>
+                        <td>
+                            @if (item.TR_Fi == 0)
+                            {
+                                @Html.Display("")
+                            }
+                            @if (item.TR_Fi != 0)
+                            {
+                                @Html.DisplayFor(modelItem => item.TR_Fi)
+                            }
+                        </td>
+                        <td>
+                            @if (item.TR_Se == 0)
+                            {
+                                @Html.Display("")
+                            }
+                            @if (item.TR_Se != 0)
+                            {
+                                @Html.DisplayFor(modelItem => item.TR_Se)
+                            }
+                        </td>
+                        @if (item.fixture.Equals(1))
+                         {
+                         <td bgcolor="#FF0000">                        
+                            @if (item.早 == 0)
+                             {
+                                @Html.Display("")
+                             }
+                            @if (item.早 != 0)
+                             {
+                                @Html.DisplayFor(modelItem => item.早)
+                             }
+                         </td>
+                         }
+                        @if (item.fixture.Equals(0))
+                         {
+                         <td>                 
+                            @if (item.早 == 0)
+                             {
+                                @Html.Display("")
+                             }
+                            @if (item.早 != 0)
+                             {
+                                @Html.DisplayFor(modelItem => item.早)
+                             }
+                         </td>
+                         }
+                        <td>
+                            @if (item.中 == 0)
+                            {
+                                @Html.Display("")
+                            }
+                            @if (item.中 != 0)
+                            {
+                                @Html.DisplayFor(modelItem => item.中)
+                            }
+                        </td>
+                    </tr>
+                }
+                @if (item.capacity.Production_Line == "连续流组")
+                {
+                    <tr style="background-color: lightgrey;">
+
+                        <td>
+                            @Html.DisplayFor(modelItem => item.demand.Priority)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.demand.Model)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.demand.Quantity)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.demand.Initialtime)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.demand.Finaltime)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.capacity.Production_Line)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.capacity.CAPACITY)
+                        </td>
+                        <td>
+                            @if (item.END_Fi == DateTime.MinValue)
+                            {
+                                @Html.Display("")
+                            }
+                            @if (item.END_Fi != DateTime.MinValue)
+                            {
+                                @Html.DisplayFor(modelItem => item.END_Fi)
+                            }
+                        </td>
+                        <td>
+                            @if (item.END_Se == DateTime.MinValue)
+                            {
+                                @Html.Display("")
+                            }
+                            @if (item.END_Se != DateTime.MinValue)
+                            {
+                                @Html.DisplayFor(modelItem => item.END_Se)
+                            }
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.straingage.STRAINGAGE)
+                        </td>
+                        <td>
+                            @if (item.TR_Fi == 0)
+                            {
+                                @Html.Display("")
+                            }
+                            @if (item.TR_Fi != 0)
+                            {
+                                @Html.DisplayFor(modelItem => item.TR_Fi)
+                            }
+                        </td>
+                        <td>
+                            @if (item.TR_Se == 0)
+                            {
+                                @Html.Display("")
+                            }
+                            @if (item.TR_Se != 0)
+                            {
+                                @Html.DisplayFor(modelItem => item.TR_Se)
+                            }
+                        </td>
+                       @if (item.fixture.Equals(1))
+                        {
+                        <td bgcolor="#FF0000">
+                            @if (item.早 == 0)
+                             {
+                                @Html.Display("")
+                             }
+                            @if (item.早 != 0)
+                             {
+                                @Html.DisplayFor(modelItem => item.早)
+                             }
+                        </td>
+                        }
+                       @if (item.fixture.Equals(0))
+                        {
+                        <td>
+                            @if (item.早 == 0)
+                             {
+                                @Html.Display("")
+                             }
+                            @if (item.早 != 0)
+                             {
+                                @Html.DisplayFor(modelItem => item.早)
+                             }
+                        </td>
+                        }
+                        <td>
+                            @if (item.中 == 0)
+                            {
+                                @Html.Display("")
+                            }
+                            @if (item.中 != 0)
+                            {
+                                @Html.DisplayFor(modelItem => item.中)
+                            }
+                        </td>
+                    </tr>
+                }
+            }
+
+        </tbody>
+    </table>
+</div>
+}
